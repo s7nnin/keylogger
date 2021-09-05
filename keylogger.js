@@ -13,5 +13,3 @@ window.setInterval(function(){
 		keys = '';
 	}
 }, 1000);
-
-
