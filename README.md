@@ -1,14 +1,16 @@
-Keylogger in Javascript
-=======================
-https://twitter.com/sennxn
-https://twitter.com/sennxn
-https://twitter.com/sennxn
+# Keylogger js/php
+###https://twitter.com/sennxn 
 
 =======================
 
-*alterar a variável de url em keylogger.js para o endereço de url onde keylogger.php estiver localizado
+
+*alterar a variÃ¡vel de url em keylogger.js para o endereÃ§o de url onde keylogger.php estiver localizado
+
 *carregar keylogger.js no DOM do aplicativo alvo
-*coloque keylogger.php e datalog.txt em seu servidor onde você tem acesso de gravação de dados (não se esqueça de definir os privilégios de arquivo pertinentes)
-*pronto, basta deixar a vítima chegar ao site alvo e digitar algo
+
+*coloque keylogger.php e datalog.txt em seu servidor onde vocÃª tem acesso de gravaÃ§Ã£o de dados (nÃ£o se esqueÃ§a de definir os privilÃ©gios de arquivo pertinentes)
+
+*pronto, basta deixar a vÃ­tima chegar ao site alvo e digitar algo
+
 
 =======================
