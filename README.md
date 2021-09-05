@@ -1,8 +1,5 @@
 # Keylogger js/php
-https://twitter.com/sennxn 
-
 =======================
-
 
 *alterar a variável de url em keylogger.js para o endereço de url onde keylogger.php estiver localizado
 
@@ -12,5 +9,11 @@ https://twitter.com/sennxn
 
 *pronto, basta deixar a vítima chegar ao site alvo e digitar algo
 
-
 =======================
+
+
+
+
+
+
+https://twitter.com/sennxn;
